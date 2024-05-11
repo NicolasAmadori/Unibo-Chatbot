@@ -1,0 +1,351 @@
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi
+
+Compilare il piano di studi — Ingegneria e scienze informatiche - Laurea - Cesena
+===============
+   
+
+[](#)
+
+Questo sito web utilizza i cookie
+---------------------------------
+
+Nel nostro sito utilizziamo sia cookie tecnici necessari per il suo funzionamento, sia cookie e altri strumenti di tracciamento facoltativi che potrai attivare solo con il tuo consenso.  
+Cookie e altri strumenti di tracciamento facoltativi sono usati per analisi statistiche, misure sull'efficacia della comunicazione istituzionale e analisi dei comportamenti degli utenti.  
+Se chiudi questo banner continuerai la navigazione solo con i cookie necessari.
+
+Puoi esprimere il consenso sui cookie facoltativi attivando l'opzione in "Personalizza cookie" e, se vuoi, potrai esprimere consensi più specifici in "Mostra cookie di profilazione".  
+Potrai sempre rivedere le tue scelte e verificare lo stato dei consensi rientrando nella sezione "Impostazione cookie" del sito.  
+Per maggiori informazioni [consulta la nostra Cookie policy](https://www.unibo.it/it/cookies).
+
+*    Cookie di profilazione - facoltativi Si tratta di cookie utilizzati per analizzare le caratteristiche della navigazione degli utenti, creare profili in base al loro comportamento sul sito, per analisi di marketing. [Mostra cookie di profilazione](#)
+    *    Google/Youtube Video
+    *    Facebook
+    *    Vimeo
+    *    Linkedin
+*    Cookie tecnici - necessari Si tratta di cookie tecnici utilizzati, a titolo esemplificativo, per il corretto funzionamento del sito, salvare le preferenze di navigazione, per il bilanciamento del carico, ottimizzare le prestazioni del sito riducendo i tempi di caricamento delle pagine e per gestire l’autenticazione ai servizi online e alle aree riservate.
+
+[Solo cookie necessari](#chefcookie__decline) [Personalizza cookie](#chefcookie__settings) [Salva le mie preferenze](#chefcookie__accept) [Accetta tutti i cookie](#chefcookie__accept_all)
+
+*   [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx) [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx)
+    
+       
+    
+     Vai
+    
+    [Chiudi](#popup-search)
+    
+*   [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx) [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx)
+    
+     
+    
+     Persone  Strutture
+    
+     Vai
+    
+    [Chiudi](#popup-address-book)
+    
+*   [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online) [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online)
+    
+    #### Studenti
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/studenti/home.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/welcomeStudenti.htm)
+    *   [Autocertificazioni e certificati](https://studenti.unibo.it)
+    *   [Bacheca offerte di lavoro](https://jobplacement.unibo.it/it/studenti-e-laureati/offerte-di-lavoro)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Corsi in lingua](https://centri.unibo.it/cla/it/corsi)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [Piani di studio](https://studenti.unibo.it)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Studenti Online](https://studenti.unibo.it)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [UniboStore](https://www.unibostore.it/)
+    *   [Virtuale](https://virtuale.unibo.it)
+    
+    #### Personale
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm)
+    *   [AlmaRegistri](https://almaregistri.unibo.it/almaregistri/welcome.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/personale/home.htm)
+    *   [Cedolini web](https://cedolini.unibo.it/)
+    *   [Concilium](https://concilium.unibo.it/)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/servizi-online-per-studenti-1/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Incarichi extraistituzionali](https://incarichiextraistituzionali.unibo.it/incarichiextraistituzionali/init.do)
+    *   [IRIS - Archivio produzione scientifica](https://cris.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [NormAteneo](http://www.normateneo.unibo.it/)
+    *   [OrganiWeb](https://intranet.unibo.it/organiweb)
+    *   [Presenze web](https://presenzeweb.unibo.it/presenzeweb/init.do)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Sito Web Personale](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale/sito-web-personale)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [Titulus](https://intranet.unibo.it/MioPortale/Pagine/TitulusProtocollo.aspx)
+    *   [UniboImmagine](http://uniboimmagine.unibo.it)
+    *   [U-Web Reporting - Reportistica Contabile Progetti](https://unibo.u-web.cineca.it/apprep/#!/lanciorapido)
+    *   [Virtuale](https://virtuale.unibo.it)
+    *   [Vedi tutti](https://intranet.unibo.it/MioPortale/Pagine/ServiziOnline.aspx)
+    
+    [Chiudi](#popup-services)
+    
+*   [Intranet d'ateneo](https://intranet.unibo.it/)
+*   [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail) [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail)
+    
+    *   [La mia e-mail Studenti](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail/la-mia-e-mail-per-gli-studenti)
+    *   [La mia e-mail Personale](https://mail.unibo.it/)
+    
+    [Chiudi](#popup-email)
+    
+*   [Il mio portale](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale)
+
+ 
+
+[vai al contenuto della pagina](#u-content-wrapper) [vai al menu di navigazione](#u-main-menu)
+
+[Vai alla Homepage del Campus di Cesena](https://www.unibo.it/it/campus-cesena) [Laurea in Ingegneria e scienze informatiche](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)
+
+*   [it](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)
+*   [en](https://corsi.unibo.it/1cycle/ComputerScienceEngineering)
+
+Menu
+
+*   [Home](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html)
+*   [Il Corso](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/il-corso)
+*   [Iscriversi](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/iscriversi)
+*   [Studiare](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/studiare)
+*   [Opportunità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/opportunita)
+*   [Bacheca](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/bacheca)
+*   [Contatti](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/contatti)
+
+Tu sei qui:
+
+1.  [Home](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)
+2.  [Studiare](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/studiare)
+3.  Compilare il piano di studi
+
+Compilare il piano di studi
+===========================
+
+Informazioni per preparare e presentare il piano di studi
+
+[Condividi](#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi&t=Compilare+il+piano+di+studi "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi&text=Compilare+il+piano+di+studi&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Compilare%20il%20piano%20di%20studi%0AIndirizzo%3A%20https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi%0ATesto%3A%20Informazioni%20per%20preparare%20e%20presentare%20il%20piano%20di%20studi&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Compilare%20il%20piano%20di%20studi "Invia ad un amico")
+
+Che cos'è il piano di studi
+---------------------------
+
+Il piano di studi è l'insieme di tutti gli esami che lo studente deve sostenere per potersi laureare. Alcuni esami sono obbligatori, mentre altri sono a scelta dello studente.
+
+Lo studente può sostenere soltanto gli esami già presenti nel proprio piano di studi.
+
+Possono presentare il [piano di studi via web](https://studenti.unibo.it/ "studenti on line") gli studenti regolarmente iscritti all'anno accademico in corso e fuori corso; gli studenti:  
+\- del PERCORSO LUNGO/FLESSIBILE  
+\- appartenenti a CORSI DI LAUREA DISATTIVATI  
+\- che riscontrano problemi di carattere informatico  
+\- che intendono scegliere insegnamenti attivati presso Corsi di Studio a NUMERO PROGRAMMATO  
+possono compilare il modulo che sarà inserito in "Allegato" e inviarlo via e-mail alla Segreteria Studenti dalla casella di posta istituzionale all'indirizzo [segcesena@unibo.it](mailto:segcesena@unibo.it).
+
+Periodi di presentazione del piano di studi
+-------------------------------------------
+
+**Sono previste nell'A.A. 2023/2024 due aperture di piani web.**
+
+Primo periodo: **9 ottobre 2023 – 10 novembre 2023**  
+Secondo periodo: **12 febbraio 2024 - 8 marzo 2024**
+
+**Nel periodo di apertura dei piani web lo studente potrà compilare e modificare il proprio piano di studi senza limitazioni.**
+
+Anche se il piano di studi viene presentato, potrà essere recuperato, modificato e presentato nuovamente entro la scadenza.  
+Pertanto tutti i piani compilati prima della data di inizio così come quelli inoltrati o modificati dopo la data di scadenza non saranno ritenuti validi.  
+  
+**Attenzione! Dopo aver effettuato le scelte lo studente deve cliccare sul pulsante "Salva" affinché il proprio piano di studi possa essere correttamente presentato**.
+
+E' fortemente consigliato stampare dal web il piano di studi compilato.
+
+**Accesso a StudentiOnLine**
+
+La compilazione e la presentazione del proprio piano di studi avviene accedendo al servizio [Studenti Online](http://www.studenti.unibo.it/ "Apre nuova finestra") con le proprie credenziali d’Ateneo. Il Servizio è attivo solo nei periodi in cui è consentita la presentazione.
+
+Chi deve presentare il piano di studi
+-------------------------------------
+
+**S**t**udenti iscritti al terzo anno IN CORSO**:
+
+*   è obbligatorio effettuare la scelta di **12 cfu tra gli insegnamenti opzionali di seguito elencati:**
+
+**Codice**
+
+**Denominazione insegnamento**
+
+**CF**U****
+
+**70090**
+
+**[COMPUTER GRAPHICS](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/385075)**
+
+****6****
+
+**84339**
+
+**[BASI DI DATI AVANZATE](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/421625)**
+
+****6****
+
+**72778**
+
+**[HIGH-PERFORMANCE COMPUTING](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/385080)**
+
+**6**
+
+**70227**
+
+**[INFORMATICA E DIRITTO](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/378230)**
+
+**6**
+
+**77780**
+
+**[SISTEMI EMBEDDED E INTERNET OF THINGS](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/400396)**
+
+**6**
+
+**72787**
+
+**[PROGRAMMAZIONE DI SISTEMI MOBILE](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/385090)**
+
+**6**
+
+**72796**
+
+**[PROGRAMMAZIONE DI APPL. DATA INTENSIVE](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/385100)**
+
+**6**
+
+**17634**
+
+**[VISIONE ARTIFICIALE](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/421624)**
+
+**6**
+
+*   **e 12 cfu a libera scelta tra gli insegnamenti opzionali sopraelencati, tutti gli insegnamenti attivi in Ateneo e quelli riportati di seguito:**
+
+**Codice**
+
+**Denominazione insegnamento**
+
+**CFU**
+
+**14015  
+**
+
+**[CRITTOGRAFIA](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/447103)**
+
+**6  
+**
+
+**96642**
+
+**[VIRTUALIZZAZIONE E INTEGRAZIONE DEI SISTEMI](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/469640)**
+
+**6**
+
+E' possibile scegliere, su Studenti Online, come Attività Formative di Tipologia D:  
+\- **per gli studenti in corso** le [Competenze trasversali](https://www.unibo.it/it/didattica/Innovazione-didattica/competenze-trasversali/competenze-trasversali) consultabili nella sezione "Vedi anche". Sarà possibile inserire nel piano di studio, se presenti in più edizioni, solo una edizione. Per ciascuna di queste attività formative sono disponibili un numero limitato di posti.  
+\- **per gli studenti in corso e fuori corso** il corso Lingua e Cultura Tedesca I - Cesena (Progetto ULCAM) - 40 ore di didattica frontale, 6 CFU - che si svolgerà nel II semestre. E' richiesta la frequenza obbligatoria per almeno il 70% delle lezioni ed è previsto un numero limitato di posti. Per ulteriori informazioni consultare la pagina personale della docente, [Prof.ssa Monika Hengge](https://www.unibo.it/sitoweb/monika.hengge/didattica).
+
+****Prova finale****
+
+Inoltre è obbligatorio, per poter chiudere correttamente il piano di studi, scegliere fin da ora come si vorrà svolgere la prova finale.  
+La prova finale è così regolata:
+
+\- GRUPPO A: PROVA FINALE 6 cfu
+
+\- GRUPPO B: PROVA FINALE 3 cfu + un’altra attività da massimo 3 cfu fra Preparazione prova finale all’estero o Tirocinio all'estero in preparazione della prova finale o Tirocinio in preparazione della prova finale.
+
+Questa scelta non è vincolante e potrà essere cambiata in qualsiasi momento, anche con una comunicazione dall’email istituzionale alla segreteria studenti [segcesena@unibo.it](mailto:segcesena@unibo.it), prima di intraprendere la preparazione alla prova finale.
+
+### ALLEGATO
+
+*   [Modulo 8615 scelte](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi/8615-isi-scelte-2023-24.pdf/@@download/file/8615ISIscelte2023.24.pdf)
+    
+    \[ .pdf 6Kb \]
+    
+
+### VEDI ANCHE
+
+*   [Competenze trasversali](https://www.unibo.it/it/didattica/Innovazione-didattica/competenze-trasversali/competenze-trasversali)
+    
+*   [Competenze trasversali per studenti laurea triennale](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/compilare-piano-di-studi/competenze-trasversali-23_24-_disi_lt_8615.xlsx/@@download/file/Competenzetrasversali23_24_DISI_LT_8615.xlsx)
+    
+    \[ .xlsx 9Kb \]
+    
+    Anno Accademico 2023/2024
+    
+
+### Contatti
+
+#### SERVIZIO DIDATTICO
+
+Email: [campuscesena.didattica.isa@unibo.it](mailto:campuscesena.didattica.isa@unibo.it)
+
+Tel: +39.0547-338300  
+
+Indirizzo: Via dell'Università, 50 - 47521 CESENA (FC)
+
+Gli uffici svolgono il loro servizio ed il ricevimento dell’utenza dal lunedì al venerdì dalle 9,30 alle 12 e dalle 14,30 alle 15,30.  
+Scrivi una e-mail per informazioni o per un collegamento diretto tramite l’app Teams. Entro due giorni lavorativi riceverai una e-mail con data, ora e link a cui collegarti dopo aver scaricato l’app.
+
+[Read more](#) [Read less](#)
+
+#### Segreteria studenti
+
+Responsabile: Dott. Stefano Macrelli
+
+Sportello virtuale: [Collegati](https://sportelli.unibo.it/pages/home?redirect=%2F)
+
+Orari  
+Accesso libero: mart. 14:00 - 15:30; ven. 09:00 - 12:00  
+Su appuntamento: lunedì 09:00 - 12:00; mercoledì 09:00 - 12:00; giovedì 09:00 - 12:00
+
+Email: [segcesena@unibo.it](mailto:segcesena@unibo.it)
+
+Indirizzo: Palazzo Urbinati, via Montalti, 69 - 47521 Cesena
+
+[Read more](#) [Read less](#)
+
+Segui il corso su:
+
+*   [Seguici su Facebook](https://www.facebook.com/Ingegneria-e-Scienze-Informatiche-Cesena-371487702864280/)
+*   [Seguici su Linkedin](https://www.linkedin.com/groups/2029274/)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/)
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna)
+*   [Seguici su Telegram](https://t.me/Unibo_Official)
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901)
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it)
+*   [Seguici su Twitter](http://www.twitter.com/Unibo)
+*   [Segui Unibo su Spreaker](https://www.spreaker.com/user/unibo)
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+[Vai alla home del Portale Unibo](https://www.unibo.it "Apre nuova finestra")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - Partita IVA: 01131710376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](#)
+
+ 
+
+[](# "Torna su")
