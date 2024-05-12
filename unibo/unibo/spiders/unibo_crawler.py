@@ -13,7 +13,7 @@ class UniboCrawlerSpider(CrawlSpider):
 
     allowed_domains = ["corsi.unibo.it", "r.jina.ai"]
     start_urls = ["https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html"]
-    
+    printOnlyUrl = True
 
     def __init__(self, *args, **kwargs):
         super(UniboCrawlerSpider, self).__init__(*args, **kwargs)
@@ -42,22 +42,35 @@ class UniboCrawlerSpider(CrawlSpider):
 
     def parse_item_from_request(self, response):
         self.i+=1
-        filename = str(self.i) + ".txt"
-
         original_url = response.url.replace("https://r.jina.ai/", "")
-        url = urlparse(original_url)
-        path_segments = [segment[:50] for segment in url.path.split('/')] #Limito a 50 caratteri i nomi delle directory
-        path = os.path.join("unibo", "output", "pagine", *path_segments, filename) #Concateno il percorso
+        if self.printOnlyUrl:
+            filename = "links.txt"
+            path = os.path.join("pagine", filename) #Concateno il percorso
 
-        os.makedirs(os.path.dirname(path), exist_ok=True)
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(original_url + "\n\n")#Lascio traccia del link della pagina scaricata
-            f.write(response.text)
-        
-        #Yield obbligatorio
-        yield {
-            'id': self.i
-        }
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "a", encoding="utf-8") as f:
+                f.write(original_url + "\n")
+                
+            yield {
+                'id': self.i,
+                "link": original_url
+            }
+        else:
+            filename = str(self.i) + ".txt"
+
+            
+            url = urlparse(original_url)
+            path_segments = [segment[:50] for segment in url.path.split('/')] #Limito a 50 caratteri i nomi delle directory
+            path = os.path.join("pagine", *path_segments, filename) #Concateno il percorso
+
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(original_url + "\n\n")#Lascio traccia del link della pagina scaricata
+                f.write(response.text)
+            
+            yield {
+                'id': self.i
+            }
 
     def handle_error(self, failure):
         self.logger.error(repr(failure))
