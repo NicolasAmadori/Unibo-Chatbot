@@ -13,7 +13,9 @@ class UniboCrawlerSpider(CrawlSpider):
 
     allowed_domains = ["corsi.unibo.it", "r.jina.ai"]
     start_urls = ["https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html"]
-    printOnlyUrl = True
+
+    PRINT_ONLY_URL = False
+    FOLDER_CHARACTER_LIMIT = 50
 
     def __init__(self, *args, **kwargs):
         super(UniboCrawlerSpider, self).__init__(*args, **kwargs)
@@ -25,14 +27,6 @@ class UniboCrawlerSpider(CrawlSpider):
         general_link,
     )
 
-    def stampa_url(self, response):
-        full_link = self.jina_prefix + response.url
-        self.i+=1
-        yield {
-            'id': self.i,
-            'url': full_link
-        }
-
     def download_jina(self, response):
         full_link = self.jina_prefix + response.url
         headers = {
@@ -43,7 +37,7 @@ class UniboCrawlerSpider(CrawlSpider):
     def parse_item_from_request(self, response):
         self.i+=1
         original_url = response.url.replace("https://r.jina.ai/", "")
-        if self.printOnlyUrl:
+        if self.PRINT_ONLY_URL:
             filename = "links.txt"
             path = os.path.join("pagine", filename) #Concateno il percorso
 
@@ -58,9 +52,8 @@ class UniboCrawlerSpider(CrawlSpider):
         else:
             filename = str(self.i) + ".txt"
 
-            
             url = urlparse(original_url)
-            path_segments = [segment[:50] for segment in url.path.split('/')] #Limito a 50 caratteri i nomi delle directory
+            path_segments = [segment[:self.FOLDER_CHARACTER_LIMIT] for segment in url.path.split('/')] #Limito a 50 caratteri i nomi delle directory
             path = os.path.join("pagine", *path_segments, filename) #Concateno il percorso
 
             os.makedirs(os.path.dirname(path), exist_ok=True)

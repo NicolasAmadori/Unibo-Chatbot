@@ -201,8 +201,6 @@ App:
 *   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
 *   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
 
-[Vai alla home del Portale Unibo](https://www.unibo.it "Apre nuova finestra")
-
 ©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - Partita IVA: 01131710376
 
 [Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](#)

@@ -1,0 +1,453 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso
+
+Qualità: il Corso in cifre — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+===============
+   
+
+[](#)
+
+Questo sito web utilizza i cookie
+---------------------------------
+
+Nel nostro sito utilizziamo sia cookie tecnici necessari per il suo funzionamento, sia cookie e altri strumenti di tracciamento facoltativi che potrai attivare solo con il tuo consenso.  
+Cookie e altri strumenti di tracciamento facoltativi sono usati per analisi statistiche, misure sull'efficacia della comunicazione istituzionale e analisi dei comportamenti degli utenti.  
+Se chiudi questo banner continuerai la navigazione solo con i cookie necessari.
+
+Puoi esprimere il consenso sui cookie facoltativi attivando l'opzione in "Personalizza cookie" e, se vuoi, potrai esprimere consensi più specifici in "Mostra cookie di profilazione".  
+Potrai sempre rivedere le tue scelte e verificare lo stato dei consensi rientrando nella sezione "Impostazione cookie" del sito.  
+Per maggiori informazioni [consulta la nostra Cookie policy](https://www.unibo.it/it/cookies).
+
+*    Cookie di profilazione - facoltativi Si tratta di cookie utilizzati per analizzare le caratteristiche della navigazione degli utenti, creare profili in base al loro comportamento sul sito, per analisi di marketing. [Mostra cookie di profilazione](#)
+    *    Google/Youtube Video
+    *    Facebook
+    *    Vimeo
+    *    Linkedin
+*    Cookie tecnici - necessari Si tratta di cookie tecnici utilizzati, a titolo esemplificativo, per il corretto funzionamento del sito, salvare le preferenze di navigazione, per il bilanciamento del carico, ottimizzare le prestazioni del sito riducendo i tempi di caricamento delle pagine e per gestire l’autenticazione ai servizi online e alle aree riservate.
+
+[Solo cookie necessari](#chefcookie__decline) [Personalizza cookie](#chefcookie__settings) [Salva le mie preferenze](#chefcookie__accept) [Accetta tutti i cookie](#chefcookie__accept_all)
+
+*   [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx) [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx)
+    
+       
+    
+     Vai
+    
+    [Chiudi](#popup-search)
+    
+*   [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx) [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx)
+    
+     
+    
+     Persone  Strutture
+    
+     Vai
+    
+    [Chiudi](#popup-address-book)
+    
+*   [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online) [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online)
+    
+    #### Studenti
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/studenti/home.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/welcomeStudenti.htm)
+    *   [Autocertificazioni e certificati](https://studenti.unibo.it)
+    *   [Bacheca offerte di lavoro](https://jobplacement.unibo.it/it/studenti-e-laureati/offerte-di-lavoro)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Corsi in lingua](https://centri.unibo.it/cla/it/corsi)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [Piani di studio](https://studenti.unibo.it)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Studenti Online](https://studenti.unibo.it)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [UniboStore](https://www.unibostore.it/)
+    *   [Virtuale](https://virtuale.unibo.it)
+    
+    #### Personale
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm)
+    *   [AlmaRegistri](https://almaregistri.unibo.it/almaregistri/welcome.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/personale/home.htm)
+    *   [Cedolini web](https://cedolini.unibo.it/)
+    *   [Concilium](https://concilium.unibo.it/)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/servizi-online-per-studenti-1/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Incarichi extraistituzionali](https://incarichiextraistituzionali.unibo.it/incarichiextraistituzionali/init.do)
+    *   [IRIS - Archivio produzione scientifica](https://cris.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [NormAteneo](http://www.normateneo.unibo.it/)
+    *   [OrganiWeb](https://intranet.unibo.it/organiweb)
+    *   [Presenze web](https://presenzeweb.unibo.it/presenzeweb/init.do)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Sito Web Personale](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale/sito-web-personale)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [Titulus](https://intranet.unibo.it/MioPortale/Pagine/TitulusProtocollo.aspx)
+    *   [UniboImmagine](http://uniboimmagine.unibo.it)
+    *   [U-Web Reporting - Reportistica Contabile Progetti](https://unibo.u-web.cineca.it/apprep/#!/lanciorapido)
+    *   [Virtuale](https://virtuale.unibo.it)
+    *   [Vedi tutti](https://intranet.unibo.it/MioPortale/Pagine/ServiziOnline.aspx)
+    
+    [Chiudi](#popup-services)
+    
+*   [Intranet d'ateneo](https://intranet.unibo.it/)
+*   [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail) [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail)
+    
+    *   [La mia e-mail Studenti](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail/la-mia-e-mail-per-gli-studenti)
+    *   [La mia e-mail Personale](https://mail.unibo.it/)
+    
+    [Chiudi](#popup-email)
+    
+*   [Il mio portale](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale)
+
+ 
+
+[vai al contenuto della pagina](#u-content-wrapper) [vai al menu di navigazione](#u-main-menu)
+
+[Vai alla Homepage del Campus di Cesena](https://www.unibo.it/it/campus-cesena) [Laurea Magistrale in Ingegneria e scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+
+*   [it](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+*   [en](https://corsi.unibo.it/2cycle/ComputerScienceEngineering)
+
+Menu
+
+*   [Home](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/index.html)
+*   [Il Corso](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/il-corso)
+*   [Iscriversi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/iscriversi)
+*   [Studiare](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/studiare)
+*   [Opportunità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/opportunita)
+*   [Bacheca](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca)
+*   [Contatti](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/contatti)
+
+Tu sei qui:
+
+1.  [Home](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+2.  [Il Corso](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/il-corso)
+3.  Qualità: il Corso in cifre
+
+Qualità: il Corso in cifre
+==========================
+
+Il Corso pubblica dati statistici sulle proprie caratteristiche e risultati in linea con il principio di trasparenza e le azioni dell'Ateneo per garantire la qualità della didattica e dei servizi offerti.
+
+[Condividi](#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso&t=Qualit%C3%A0%3A+il+Corso+in+cifre "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso&text=Qualit%C3%A0%3A+il+Corso+in+cifre&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Qualit%C3%A0%3A%20il%20Corso%20in%20cifre%0AIndirizzo%3A%20https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso%0ATesto%3A%20Il%20Corso%20pubblica%20dati%20statistici%20sulle%20proprie%20caratteristiche%20e%20risultati%20in%20linea%20con%20il%20principio%20di%20trasparenza%20e%20le%20azioni%20dell%27Ateneo%20per%20garantire%20la%20qualit%C3%A0%20della%20didattica%20e%20dei%20servizi%20offerti.&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Qualit%C3%A0%3A%20il%20Corso%20in%20cifre "Invia ad un amico")
+
+I dati presentati sono relativi all'ultimo triennio. Quando è indicata la "coorte", ci si riferisce al gruppo di studenti che ha iniziato la propria carriera universitaria in un dato anno. In questo caso non sono inclusi nel dato gli studenti trasferiti da altro Corso, né gli iscritti ad una seconda laurea.  
+  
+Alcuni anni di riferimento o alcuni ambiti di informazione possono mancare se il Corso non ha ancora completato il ciclo utile per monitorare i relativi dati.
+
+Dati aggiornati al 13 giugno 2023
+
+Accesso al corso
+----------------
+
+### Numero degli iscritti
+
+#### A.A. 2022-2023
+
+*   primo anno
+    
+    71
+*   altri anni
+    
+    74
+*   fuori corso
+    
+    67
+
+#### A.A. 2021-2022
+
+*   primo anno
+    
+    83
+*   altri anni
+    
+    79
+*   fuori corso
+    
+    55
+
+#### A.A. 2020-2021
+
+*   primo anno
+    
+    78
+*   altri anni
+    
+    80
+*   fuori corso
+    
+    39
+
+### Studentesse e studenti
+
+  
+
+Coorte 2022/2023 Coorte 2021/2022 Coorte 2020/2021
+
+10%Created with Snap90%
+
+*   Studentesse 10.4%
+*   Studenti 89.6%
+
+16%Created with Snap84%
+
+*   Studentesse 15.6%
+*   Studenti 84.4%
+
+19%Created with Snap81%
+
+*   Studentesse 19.2%
+*   Studenti 80.8%
+
+### Attrattività del corso
+
+#### Coorte 2022/2023
+
+*   Residenti in altre regioni italiane 26.9%
+*   Residenti all'estero 3%
+
+#### Coorte 2021/2022
+
+*   Residenti in altre regioni italiane 27.3%
+*   Residenti all'estero 3.9%
+
+#### Coorte 2020/2021
+
+*   Residenti in altre regioni italiane 32.9%
+*   Residenti all'estero 1.4%
+
+### Titolo presentato per l'accesso
+
+  
+
+Coorte 2022/2023 Coorte 2021/2022 Coorte 2020/2021
+
+85%Created with Snap15%
+
+*   Laurea conseguita in Ateneo di Bologna 85.1%
+*   Laurea conseguita in altro Ateneo (anche estero) 14.9%
+
+83%Created with Snap17%
+
+*   Laurea conseguita in Ateneo di Bologna 83.1%
+*   Laurea conseguita in altro Ateneo (anche estero) 16.9%
+
+88%Created with Snap12%
+
+*   Laurea conseguita in Ateneo di Bologna 87.7%
+*   Laurea conseguita in altro Ateneo (anche estero) 12.3%
+
+Regolarità degli studi
+----------------------
+
+### Prosecuzione degli studi tra primo e secondo anno
+
+#### Coorte 2021/2022
+
+*   Abbandonano gli studi 19.5%
+*   Passano ad altro Corso 0%
+
+#### Coorte 2020/2021
+
+*   Abbandonano gli studi 8.2%
+*   Passano ad altro Corso 0%
+
+#### Coorte 2019/2020
+
+*   Abbandonano gli studi 9.3%
+*   Passano ad altro Corso 1.3%
+
+INFO SUI DATI
+
+Il dato "Abbandonano gli studi" comprende chi non si iscrive all'anno successivo e chi rinuncia agli studi. Il dato "Passano ad altro Corso" comprende chi si trasferisce ad altro ateneo e chi sceglie un altro Corso dell'Università di Bologna.
+
+### Esami e voto medio conseguito
+
+Consulta i [dati sugli insegnamenti del Corso relativi all'anno precedente.](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/qualita-corso/@@esami-voto-medio)
+
+### Laureati
+
+#### Coorte 2020/2021
+
+*   Laureati in corso 30.1%
+
+#### Coorte 2019/2020
+
+*   Laureati in corso 29.3%
+
+#### Coorte 2018/2019
+
+*   Laureati in corso 44.2%
+
+Esperienze all'estero
+---------------------
+
+### Partecipanti ai programmi di mobilità internazionale
+
+*   A.A. 2022-2023
+    
+    10
+*   A.A. 2021-2022
+    
+    9
+*   A.A. 2020-2021
+    
+    7
+
+### Laureati con una esperienza all'estero
+
+*   Anno 2022
+    
+    13.2%
+*   Anno 2021
+    
+    8.2%
+*   Anno 2020
+    
+    13%
+
+Opinioni sul corso
+------------------
+
+### Cosa dicono gli studenti
+
+Consulta i [dati più recenti sulle opinioni degli studenti](https://opinionistudenti.unibo.it/dati-statistici/2021/4/1304/).
+
+### Soddisfazione dei laureati
+
+#### Anno 2022
+
+*   94.3% Per questo corso
+    
+*   90.3% Per corsi della stessa classe - Italia
+    
+
+Laureati soddisfatti
+
+#### Anno 2021
+
+*   93% Per questo corso
+    
+*   92.3% Per corsi della stessa classe - Italia
+    
+
+Laureati soddisfatti
+
+#### Anno 2020
+
+*   96.1% Per questo corso
+    
+*   93.5% Per corsi della stessa classe - Italia
+    
+
+Laureati soddisfatti
+
+*   Per questo corso
+*   Per corsi della stessa classe - Italia
+
+[Consulta i dati dell'indagine AlmaLaurea](http://www2.almalaurea.it/cgi-php/universita/statistiche/framescheda.php?anno=2022&corstipo=LS&ateneo=70003&facolta=tutti&gruppo=tutti&classe=tutti&corso=tutti&postcorso=0370107301900004&LANG=it&CONFIG=profilo)
+
+Condizione occupazionale e formativa ad un anno dalla laurea
+------------------------------------------------------------
+
+  
+
+Anno di laurea 2021 Anno di laurea 2020 Anno di laurea 2019
+
+*   87.8% Per questo corso
+    
+*   92.5% Per corsi della stessa classe - Italia
+    
+
+Lavora
+
+*   2.4% Per questo corso
+    
+*   2.2% Per corsi della stessa classe - Italia
+    
+
+Non lavora e cerca lavoro
+
+*   9.8% Per questo corso
+    
+*   5.3% Per corsi della stessa classe - Italia
+    
+
+Non lavora e non cerca lavoro
+
+*   87.9% Per questo corso
+    
+*   76.2% Per corsi della stessa classe - Italia
+    
+
+Lavora
+
+*   6.1% Per questo corso
+    
+*   5.1% Per corsi della stessa classe - Italia
+    
+
+Non lavora e cerca lavoro
+
+*   6.1% Per questo corso
+    
+*   18.7% Per corsi della stessa classe - Italia
+    
+
+Non lavora e non cerca lavoro
+
+*   90.5% Per questo corso
+    
+*   73.2% Per corsi della stessa classe - Italia
+    
+
+Lavora
+
+*   0% Per questo corso
+    
+*   4.6% Per corsi della stessa classe - Italia
+    
+
+Non lavora e cerca lavoro
+
+*   9.5% Per questo corso
+    
+*   22.2% Per corsi della stessa classe - Italia
+    
+
+Non lavora e non cerca lavoro
+
+*   Per questo corso
+*   Per corsi della stessa classe - Italia
+
+[Consulta i dati dell'indagine AlmaLaurea](http://www2.almalaurea.it/cgi-php/universita/statistiche/framescheda.php?anno=2022&corstipo=LS&ateneo=70003&facolta=tutti&gruppo=tutti&classe=tutti&corso=tutti&postcorso=0370107301900004&isstella=0&annolau=tutti&disaggregazione=tutti&LANG=it&CONFIG=occupazione)
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/)
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna)
+*   [Seguici su Telegram](https://t.me/Unibo_Official)
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901)
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it)
+*   [Seguici su Twitter](http://www.twitter.com/Unibo)
+*   [Segui Unibo su Spreaker](https://www.spreaker.com/user/unibo)
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - Partita IVA: 01131710376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](#)
+
+ 
+
+[](# "Torna su")

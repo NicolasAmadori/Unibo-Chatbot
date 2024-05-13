@@ -1,0 +1,259 @@
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2023/8614/C17/000/2022
+
+Insegnamenti: piano didattico - A.A. 2023/2024 — Ingegneria e scienze informatiche - Laurea Magistrale - Cesena
+===============
+   
+
+[](#)
+
+Questo sito web utilizza i cookie
+---------------------------------
+
+Nel nostro sito utilizziamo sia cookie tecnici necessari per il suo funzionamento, sia cookie e altri strumenti di tracciamento facoltativi che potrai attivare solo con il tuo consenso.  
+Cookie e altri strumenti di tracciamento facoltativi sono usati per analisi statistiche, misure sull'efficacia della comunicazione istituzionale e analisi dei comportamenti degli utenti.  
+Se chiudi questo banner continuerai la navigazione solo con i cookie necessari.
+
+Puoi esprimere il consenso sui cookie facoltativi attivando l'opzione in "Personalizza cookie" e, se vuoi, potrai esprimere consensi più specifici in "Mostra cookie di profilazione".  
+Potrai sempre rivedere le tue scelte e verificare lo stato dei consensi rientrando nella sezione "Impostazione cookie" del sito.  
+Per maggiori informazioni [consulta la nostra Cookie policy](https://www.unibo.it/it/cookies).
+
+*    Cookie di profilazione - facoltativi Si tratta di cookie utilizzati per analizzare le caratteristiche della navigazione degli utenti, creare profili in base al loro comportamento sul sito, per analisi di marketing. [Mostra cookie di profilazione](#)
+    *    Google/Youtube Video
+    *    Facebook
+    *    Vimeo
+    *    Linkedin
+*    Cookie tecnici - necessari Si tratta di cookie tecnici utilizzati, a titolo esemplificativo, per il corretto funzionamento del sito, salvare le preferenze di navigazione, per il bilanciamento del carico, ottimizzare le prestazioni del sito riducendo i tempi di caricamento delle pagine e per gestire l’autenticazione ai servizi online e alle aree riservate.
+
+[Solo cookie necessari](#chefcookie__decline) [Personalizza cookie](#chefcookie__settings) [Salva le mie preferenze](#chefcookie__accept) [Accetta tutti i cookie](#chefcookie__accept_all)
+
+*   [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx) [Cerca](https://www.unibo.it/uniboweb/unibosearch/results.aspx)
+    
+       
+    
+     Vai
+    
+    [Chiudi](#popup-search)
+    
+*   [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx) [Rubrica](https://www.unibo.it/uniboweb/unibosearch/rubrica.aspx)
+    
+     
+    
+     Persone  Strutture
+    
+     Vai
+    
+    [Chiudi](#popup-address-book)
+    
+*   [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online) [Servizi Online](https://www.unibo.it/it/servizi-e-opportunita/servizi-online)
+    
+    #### Studenti
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/studenti/home.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/welcomeStudenti.htm)
+    *   [Autocertificazioni e certificati](https://studenti.unibo.it)
+    *   [Bacheca offerte di lavoro](https://jobplacement.unibo.it/it/studenti-e-laureati/offerte-di-lavoro)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Corsi in lingua](https://centri.unibo.it/cla/it/corsi)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [Piani di studio](https://studenti.unibo.it)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Studenti Online](https://studenti.unibo.it)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [UniboStore](https://www.unibostore.it/)
+    *   [Virtuale](https://virtuale.unibo.it)
+    
+    #### Personale
+    
+    *   [AlmaEsami](https://almaesami.unibo.it/almaesami/welcome.htm)
+    *   [AlmaRegistri](https://almaregistri.unibo.it/almaregistri/welcome.htm)
+    *   [AlmaRM](https://almarm.unibo.it/almarm/personale/home.htm)
+    *   [Cedolini web](https://cedolini.unibo.it/)
+    *   [Concilium](https://concilium.unibo.it/)
+    *   [Convenzioni e tirocini](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/servizi-online-per-studenti-1/guida-servizi-online-studenti/convenzioni-e-tirocini-online)
+    *   [Esami online - EOL](https://eol.unibo.it)
+    *   [Incarichi extraistituzionali](https://incarichiextraistituzionali.unibo.it/incarichiextraistituzionali/init.do)
+    *   [IRIS - Archivio produzione scientifica](https://cris.unibo.it)
+    *   [Liste di distribuzione](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti)
+    *   [NormAteneo](http://www.normateneo.unibo.it/)
+    *   [OrganiWeb](https://intranet.unibo.it/organiweb)
+    *   [Presenze web](https://presenzeweb.unibo.it/presenzeweb/init.do)
+    *   [Servizi bibliotecari](http://www.sba.unibo.it/it)
+    *   [Sito Web Personale](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale/sito-web-personale)
+    *   [Tesi online](http://www.unibo.it/it/servizi-e-opportunita/servizi-online/guida-servizi-online-studenti/ams-tesi-online)
+    *   [Titulus](https://intranet.unibo.it/MioPortale/Pagine/TitulusProtocollo.aspx)
+    *   [UniboImmagine](http://uniboimmagine.unibo.it)
+    *   [U-Web Reporting - Reportistica Contabile Progetti](https://unibo.u-web.cineca.it/apprep/#!/lanciorapido)
+    *   [Virtuale](https://virtuale.unibo.it)
+    *   [Vedi tutti](https://intranet.unibo.it/MioPortale/Pagine/ServiziOnline.aspx)
+    
+    [Chiudi](#popup-services)
+    
+*   [Intranet d'ateneo](https://intranet.unibo.it/)
+*   [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail) [La mia e-mail](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail)
+    
+    *   [La mia e-mail Studenti](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/la-mia-e-mail/la-mia-e-mail-per-gli-studenti)
+    *   [La mia e-mail Personale](https://mail.unibo.it/)
+    
+    [Chiudi](#popup-email)
+    
+*   [Il mio portale](https://www.unibo.it/it/servizi-e-opportunita/servizi-online/il-mio-portale)
+
+ 
+
+[vai al contenuto della pagina](#u-content-wrapper) [vai al menu di navigazione](#u-main-menu)
+
+[Vai alla Homepage del Campus di Cesena](https://www.unibo.it/it/campus-cesena) [Laurea Magistrale in Ingegneria e scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+
+*   [it](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+*   [en](https://corsi.unibo.it/2cycle/ComputerScienceEngineering)
+
+Menu
+
+*   [Home](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/index.html)
+*   [Il Corso](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/il-corso)
+*   [Iscriversi](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/iscriversi)
+*   [Studiare](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/studiare)
+*   [Opportunità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/opportunita)
+*   [Bacheca](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/bacheca)
+*   [Contatti](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/contatti)
+
+Tu sei qui:
+
+1.  [Home](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+2.  [Insegnamenti: piano didattico](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti)
+3.  [piani didattici 2023-2024](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/?year=2023&code=8614)
+4.  Curriculum Intelligent Embedded Systems: Piano didattico per studenti immatricolati nell'a.a. 2022-23
+
+Curriculum Intelligent Embedded Systems: Piano didattico per studenti immatricolati nell'a.a. 2022-23
+=====================================================================================================
+
+[Condividi](#popup-social "Condividi")
+
+*   [Facebook](http://www.facebook.com/sharer.php?u=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2023/8614/C17/000/2022&t=Insegnamenti%3A+piano+didattico "Condividi su facebook")
+*   [Linkedin](https://www.linkedin.com/shareArticle/?url=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2023/8614/C17/000/2022 "Condividi su Linkedin")
+*   [Twitter](https://twitter.com/share?url=https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2023/8614/C17/000/2022&text=Insegnamenti%3A+piano+didattico&hashtags=unibo "Condividi su Twitter")
+*   [Invia ad un amico](mailto:?body=Titolo%3A%20Insegnamenti%3A%20piano%20didattico%0AIndirizzo%3A%20https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/insegnamenti/piano/2023/8614/C17/000/2022%0A&subject=%5BUniboCDS%5D%20Qualcuno%20vuole%20condividere%20questa%20pagina%20con%20te%20Insegnamenti%3A%20piano%20didattico "Invia ad un amico")
+
+This curriculum is developed in partnership with EIT Digital Master School:https://masterschool.eitdigital.eu/embedded-systems
+
+### Primo Anno di Corso
+
+#### Compulsory courses
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2023 - 19/12/2023 2: 19/02/2024 - 31/05/2024 A: 18/09/2023 - 31/05/2024 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96098 | [MARKETING, SALES AND PLATFORMS FOR THE DIGITAL AGE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96098&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | D | SECS-P/08 | 6 |
+| 96101 | ORGANIZATION, TEAMS AND DIGITAL LEADERSHIP - non attivo per l'anno  2023/2024 | 1 | C | SECS-P/10 | 6 |
+| 96858 | APPLICATIONS OF DIGITAL INNOVATION  
+Composed of: EIT Summer School - (4 ECTS) & EIT lab. - (2 ECTS) | 2 | F |  | 6 |
+| 95628 | BUSINESS MODELS - non attivo per l'anno  2023/2024 | 2 | C | SECS-P/10 | 6 |
+| 93470 | [CYBERSECURITY](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93470&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 96857 | SOFTWARE ENGINEERING FOR INTELLIGENT DISTRIBUTED SYSTEMS - non attivo per l'anno  2023/2024 | 2 | B | ING-INF/05 | 6 |
+
+#### Elective Courses of the guided choice (24 CFU)
+
+##### Students who have already taken the Embedded Systems and Internet of Things exam in previous careers must take the other 4 recommended exams. We recommend to insert Embedded exam in your teaching plan if you did not take it in previous careers.
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2023 - 19/12/2023 2: 19/02/2024 - 31/05/2024 A: 18/09/2023 - 31/05/2024 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96859 | [EMBEDDED SYSTEMS AND INTERNET OF THINGS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96859&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| B0056 | NETWORKS AND OPERATING SYSTEM - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 81615 | PERVASIVE COMPUTING - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 96994 | [SMART VEHICULAR-SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96994&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 91411 | [INTELLIGENT ROBOTIC SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91411&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 96995 | [PROGRAMMABLE NETWORKING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=96995&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+
+### Secondo Anno di Corso
+
+#### Compulsory courses
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2023 - 19/12/2023 2: 19/02/2024 - 31/05/2024 A: 18/09/2023 - 31/05/2024 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 37388 | ENTREPRENEURSHIP - non attivo per l'anno  2023/2024 | 1 | D | SECS-P/08 | 6 |
+
+#### Elective Courses of the guided choice (24 CFU)
+
+##### The second year will be attended abroad in one of the partner universities. Exams passed will then be recognized as one of the exams listed below
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2023 - 19/12/2023 2: 19/02/2024 - 31/05/2024 A: 18/09/2023 - 31/05/2024 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre | ssd ? Settore scientifico disciplinare a cui appartiene l'insegnamento | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 69867 | APPLICAZIONI E SERVIZI WEB - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 81932 | [BIG DATA](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=81932&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 30376 | [BUSINESS INTELLIGENCE](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=30376&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 40720 | [DATA MINING](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=40720&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 81614 | LABORATORIO DI SISTEMI SOFTWARE - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 81615 | PERVASIVE COMPUTING - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 58260 | SISTEMI DISTRIBUITI - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 09679 | [SISTEMI INFORMATIVI](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=09679&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 72529 | SMART CITY E TECNOLOGIE MOBILI - non attivo per l'anno  2023/2024 | 1 | B | ING-INF/05 | 6 |
+| 29443 | [VISIONE ARTIFICIALE E RICONOSCIMENTO](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=29443&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 1 | B | ING-INF/05 | 6 |
+| 93668 | [ANALISI DI IMMAGINI 3D E SISTEMI DI COMPUTER VISION](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=93668&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 91411 | [INTELLIGENT ROBOTIC SYSTEMS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=91411&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 95638 | [OPERATIONAL ANALYTICS](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=95638&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+| 73435 | [PROJECT MANAGEMENT](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti?codiceMateria=73435&annoAccademico=2023&codiceCorso=8614&single=True&search=True) | 2 | B | ING-INF/05 | 6 |
+
+#### Final examination (30 CFU)
+
+|  |  | periodo ? L'arco di tempo in cui si tengono le lezioni di un insegnamento 1: 18/09/2023 - 19/12/2023 2: 19/02/2024 - 31/05/2024 A: 18/09/2023 - 31/05/2024 | tipo ? A: di base  
+B: caratterizzanti  
+C: affini o integrative  
+D: a scelta dello studente  
+E: prova finale e conoscenza della lingua inglese  
+S: Stage  
+F: altre |  | cfu ? Crediti formativi universitari |
+| --- | --- | --- | --- | --- | --- |
+| 96895 | FINAL EXAMINATION (30 CFU) | 2 | E |  | 30 |
+| 93935 | FINAL EXAMINATION (6 CFU) | 2 | E |  | 6 |
+| 96896 | FINAL EXAMINATION PREPARATION ABROAD | 2 | E |  | 24 |
+| 97366 | INTERNSHIP ABROAD FOR THE FINAL EXAMINATION PREPARATION | 2 | E |  | 24 |
+| 97367 | INTERNSHIP FOR THE FINAL EXAMINATION PREPARATION | 2 | E |  | 24 |
+
+Segui Unibo su:
+
+*   [Seguici su Instagram](https://www.instagram.com/unibo/)
+*   [Seguici su YouTube](https://www.youtube.com/user/UniBologna)
+*   [Seguici su Telegram](https://t.me/Unibo_Official)
+*   [Seguici su Linkedin](https://www.linkedin.com/edu/school?id=13901)
+*   [Seguici su Facebook](https://www.facebook.com/unibo.it)
+*   [Seguici su Twitter](http://www.twitter.com/Unibo)
+*   [Segui Unibo su Spreaker](https://www.spreaker.com/user/unibo)
+
+App:
+
+*   [myUniBo](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myunibo "myUniBo")
+*   [myAlmaOrienta](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-myalmaorienta "myAlmaOrienta")
+*   [App Job Placement](https://www.unibo.it/it/ateneo/le-app-delluniversita-di-bologna/app-job-placement-unibo "App Job Placement")
+*   [App Alumni](https://site.unibo.it/alumni-association/it "App Alumni")
+
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - Partita IVA: 01131710376
+
+[Privacy](https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy/informative-sul-trattamento-dei-dati-personali) [Note legali](https://www.unibo.it/it/ateneo/privacy-e-note-legali/note-legali) [Informazioni sul sito e accessibilità](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche/informazioni-sul-sito-e-accessibilita) [Impostazioni cookie](#)
+
+ 
+
+[](# "Torna su")
