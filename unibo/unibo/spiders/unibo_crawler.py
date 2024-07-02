@@ -27,6 +27,10 @@ class UniboCrawlerSpider(CrawlSpider):
         general_link,
     )
 
+    def cleanMarkdown(text):
+
+        return text
+
     def download_jina(self, response):
         full_link = self.jina_prefix + response.url
         headers = {
@@ -59,7 +63,7 @@ class UniboCrawlerSpider(CrawlSpider):
             os.makedirs(os.path.dirname(path), exist_ok=True)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(original_url + "\n\n")#Lascio traccia del link della pagina scaricata
-                f.write(response.text)
+                f.write(self.cleanMarkdown(response.text))
             
             yield {
                 'id': self.i
