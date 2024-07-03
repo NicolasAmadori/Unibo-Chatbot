@@ -27,9 +27,19 @@ class UniboCrawlerSpider(CrawlSpider):
         general_link,
     )
 
-    def cleanMarkdown(text):
+    def cleanMarkdown(self, text):
+        start_marker = "Questo sito web utilizza i cookie\n---------------------------------\n"
+        end_marker = "Informazioni sul sito e accessibilità."
 
-        return text
+        start_index = text.find(start_marker)
+        end_index = text.find(end_marker, start_index)
+        if start_index == -1 or end_index == -1:
+            return text
+
+        end_index += len(end_marker)
+        cleaned_text = text[:start_index] + text[end_index:]
+
+        return cleaned_text
 
     def download_jina(self, response):
         full_link = self.jina_prefix + response.url
@@ -41,32 +51,25 @@ class UniboCrawlerSpider(CrawlSpider):
     def parse_item_from_request(self, response):
         self.i+=1
         original_url = response.url.replace("https://r.jina.ai/", "")
+        path = "pagine"
         if self.PRINT_ONLY_URL:
             filename = "links.txt"
-            path = os.path.join("pagine", filename) #Concateno il percorso
-
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            with open(path, "a", encoding="utf-8") as f:
-                f.write(original_url + "\n")
-                
-            yield {
-                'id': self.i,
-                "link": original_url
-            }
+            path = os.path.join(path, filename)
         else:
-            filename = str(self.i) + ".txt"
-
             url = urlparse(original_url)
             path_segments = [segment[:self.FOLDER_CHARACTER_LIMIT] for segment in url.path.split('/')] #Limito a 50 caratteri i nomi delle directory
-            path = os.path.join("pagine", *path_segments, filename) #Concateno il percorso
+            filename = str(self.i) + ".txt"
+            path = os.path.join(path, *path_segments, filename) 
 
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            with open(path, "w", encoding="utf-8") as f:
-                f.write(original_url + "\n\n")#Lascio traccia del link della pagina scaricata
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, ("a" if self.PRINT_ONLY_URL else "w"), encoding="utf-8") as f:
+            f.write(original_url + "\n\n") #Lascio traccia del link della pagina scaricata
+            if not self.PRINT_ONLY_URL:
                 f.write(self.cleanMarkdown(response.text))
             
-            yield {
-                'id': self.i
+        yield {
+                'id': self.i,
+                "link": original_url
             }
 
     def handle_error(self, failure):
