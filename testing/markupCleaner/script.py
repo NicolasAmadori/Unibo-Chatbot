@@ -1,14 +1,12 @@
 def cleanMarkdown(text):
-    start_marker = "Questo sito web utilizza i cookie"
-    end_marker = "Informazioni sul sito e accessibilità"
+    marker = "==============="
 
-    start_index = text.find(start_marker)
-    end_index = text.find(end_marker)
+    start_index = text.find(marker)
+    end_index = text.find(marker, start_index + len(marker))
     print(start_index, end_index)
     if start_index == -1 or end_index == -1:
         return text
-
-    end_index += len(end_marker)
+    
     cleaned_text = text[:start_index] + text[end_index:]
     
     return cleaned_text
