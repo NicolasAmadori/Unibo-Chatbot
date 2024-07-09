@@ -1,4 +1,4 @@
-Questo sito web utilizza i cookie
+QUESTO SITO WEB UTILIZZA I COOKIE
 
 Nel nostro sito utilizziamo sia cookie tecnici necessari per il suo funzionamento, sia cookie e altri strumenti di tracciamento facoltativi che potrai attivare solo con il tuo consenso.
 Cookie e altri strumenti di tracciamento facoltativi sono usati per analisi statistiche, misure sull'efficacia della comunicazione istituzionale e analisi dei comportamenti degli utenti.
@@ -20,46 +20,93 @@ Si tratta di cookie tecnici utilizzati, a titolo esemplificativo, per il corrett
 SOLO COOKIE NECESSARI
 PERSONALIZZA COOKIE
 ACCETTA TUTTI I COOKIE
-vai al contenuto della pagina vai al menu di navigazione
-EN
-Cerca
+ Cerca
 Rubrica
-Servizi Online
-Intranet d'ateneo
+ Servizi Online
+ Intranet d'ateneo
 La mia e-mail
 Il mio portale
-MENU
+vai al contenuto della pagina vai al menu di navigazione
+Vai alla Homepage del Campus di Cesena
+LAUREA IN
+INGEGNERIA E SCIENZE INFORMATICHE
+IT
+EN
+HOME
+IL CORSO
+ISCRIVERSI
+STUDIARE
+OPPORTUNITÀ
+BACHECA
+CONTATTI
 Tu sei qui:
-Home >Ateneo >Organizzazione e sedi >Servizi di Ateneo >Servizi online >Servizi online per studenti >Guida ai Servizi online per Studenti
-Liste di distribuzione docenti-studenti
-Liste di distribuzione docenti-studenti
+HOME  
+Collaborazione tra Aziende e i Corsi di Laurea in Ingegneria e Scienze Informatiche
 
-Un servizio di comunità creato per rendere più diretta ed efficace la comunicazione tra docenti e studenti.
+La presente pagina riassume le diverse modalità di collaborazione tra Aziende o Enti Pubblici e i CdL in Ingegneria e Scienze Informatiche di Cesena. Riportiamo di seguito una classificazione delle possibili forme di collaborazione.
 
-Docenti
+Collaborazione con docenti e gruppi di ricerca
+Partecipazione congiunta a progetti di ricerca/innovazione
 
-Il servizio offre ai docenti la possibilità di creare e gestire liste di distribuzione, per inviare attraverso la posta elettronica comunicazioni, messaggi, materiali di approfondimento ai propri studenti. 
-Dopo aver seguito la procedura di autenticazione, il docente potrà inviare messaggi agli studenti che si saranno iscritti alle liste create dal docente.
+La collaborazione è tra l’azienda e i ricercatori. Le parti concordano di partecipare congiuntamente a bandi di ricerca/innovazione a livello locale, regionale o internazionale.
 
-Servizio liste di distribuzione docenti-studenti
+Modalità di contatto: l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il referente del Dipartimento che indicherà il ricercatore più indicato per la specifica area di competenza.
 
+Attività in convenzione
 
-Studenti
+La collaborazione è tra l’azienda e i ricercatori. L’azienda affida al ricercatore lo svolgimento di una attività tipicamente con finalità di innovazione o di formazione. Le convenzioni hanno carattere oneroso.
 
-Attraverso questo servizio gli studenti potranno ricevere i messaggi, le informazioni, i materiali didattici che i docenti vorranno mettere a disposizione. Lo studente, potrà inoltre comunicare col docente tramite e-mail e avere delucidazioni e informazioni di vario tipo.
-Per farlo basta iscriversi a una o più liste di distribuzione  gestite attraverso questo servizio.
-Il servizio è disponibile solo per gli studenti regolarmente iscritti.
+Modalità di contatto: l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il referente del Dipartimento che indicherà il ricercatore più indicato per la specifica area di competenza.
 
-Servizio liste di distribuzione docenti-studenti
+Collaborazione con studenti
 
-Allegati
+Per quanto riguarda le modalità di collaborazione con gli studenti occorre ricordare che il percorso formativo in Ingegneria e Scienze Informatiche è organizzato in due fasi successive:
 
-Liste di distribuzione - Guida al servizio per docenti [.pdf 526 KB]
+Corso di Laurea Triennale: vi accedono gli studenti con diploma di scuola superiore, ha durata triennale e fornisce una formazione universitaria di base nella quale vengono acquisite le principali competenze tecnologiche e competenze di base in ambito di progettazione e analisi (al seguente link è riportato l’elenco dei corsi seguiti dagli studenti). Attualmente il numero di studenti che ogni anno si iscrive a suddetto corso è di circa 200.
+Corso di Laurea Magistrale: vi accedono gli studenti che hanno completato il Corso di Laurea Triennale, ha durata biennale e permette agli studenti di specializzarsi nei vari settori dell’informatica e dell’Ingegneria Informatica acquisendo maggiori competenze tecniche, di progettazione e di analisi (al seguente link è riportato l’elenco dei corsi seguiti dagli studenti).
 
-Liste di distribuzione - Guida al servizio per studenti [.pdf 381 KB]
+Tirocinio curriculare
 
-Seguici su:
+Tutti gli studenti iscritti alla Laurea Triennale devono svolgere un periodo pari a 150 ore in Azienda.
 
+Come richiedere l'attivazione di un tirocinio curriculare
+
+Profilo degli studenti: tipicamente gli studenti svolgono il tirocinio nel terzo anno di studi quando hanno già seguito la maggior parte dei corsi. Questa rappresenta per molti la prima esperienza in azienda; di conseguenza nella maggior parte dei casi lo studente è dotato di una limitata autonomia di lavoro pur possedendo sufficienti competenze tecniche.
+Attività da svolgere: il tirocinante è tenuto a svolgere attività legate all’ambito informatico, tipicamente attività di programmazione, ma non è vi sono vincoli di progettualità e di consequenzialità tra le attività svolte. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte 
+Modalità di contatto: l’azienda deve pubblicare un titolo di tirocinio a cui gli studenti rispondono. E’ prevista una fase conoscitiva prima della mutua accettazione del tirocinio. Per poter pubblicare un tirocinio l’azienda deve attivare una convenzione gratuita con l’Ateneo a fini assicurativi. Le procedure di registrazione e pubblicazione possono essere svolte on-line al seguente indirizzo. La segreteria didattica del CdL è a disposizione per supportare le aziende (Tel. 0547 338 801).
+
+Tesi triennale in Azienda
+
+Gli studenti possono, a loro discrezione, svolgere la propria tesi di Laurea in azienda. La durata di questa attività è di circa 3 mesi. Il numero di studenti che svolgono tesi triennali in azienda è elevato e vi è quindi una buona probabilità che si trovino candidati per il tema proposto.
+
+Profilo degli studenti: gli studenti che si affacciano alla tesi triennale hanno in media 21-23 anni e hanno completato il loro percorso di studio triennale e hanno già svolto il tirocinio curricolare in azienda. E’ possibile svolgere suddetto tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
+Attività da svolgere: la tesi di Laurea presuppone lo svolgimento di un vero e proprio progetto che contempli sia una parte di analisi e progettazione, sia una parte di implementazione, rispetto al tirocinio curricolare le attività svolte devono quindi essere legate tra di loro. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
+Modalità di contatto: l’azienda può proporre un titolo di Laurea contattando direttamente un docente con competenze correlate all’ambito del progetto che si vuole svolgere, oppure contattando il Coordinatore del corso di Laurea indicato nella Scheda che indicherà il docente più indicato per la specifica area di competenza. Come per i tirocini curriculari è necessario che l’azienda sottoscriva una convenzione non onerosa con l’Ateneo a fini assicurativi.
+Pubblicazione di offerte di lavoro
+
+Il servizio di Job Placement consente di inserire offerte di lavoro e consultare i CV dei laureati.
+
+ALLEGATI
+
+Linee guida annunci
+
+[ .pdf 118Kb ]
+
+Istruzioni per la Pubblicazione di Offerte di Tirocinio e Tesi in Azienda
+
+IN EVIDENZA
+Proposte di tesi e tirocinio
+
+SEGUI IL CORSO SU:
+
+ 
+Seguici su Facebook
+ 
+Seguici su Linkedin
+
+SEGUI UNIBO SU:
+
+ 
 Seguici su Instagram
  
 Seguici su TikTok
@@ -72,34 +119,21 @@ Seguici su Linkedin
  
 Seguici su Facebook
  
-Seguici su X
+Seguici su Twitter
  
 Seguici su Spreaker
- 
-Altri social network
 
-App:
+APP:
 
-App myUniBo
  
-App myAlmaOrienta
+myUniBo
  
-myJobPlacement
+myAlmaOrienta
  
-App AMA Community Unibo
-Contatti e PEC
-Uffici dell'amministrazione generale
-Lavora con noi
-Piano strategico
-Bilanci
-Sostenere l'Alma Mater
-Merchandising - UniboStore
-Bandi, gare e concorsi
-Albo online
-Amministrazione trasparente
-Atti di notifica
-Informazioni sul sito e accessibilità
-Privacy e note legali
-Impostazioni Cookie
+App Job Placement
+ 
+App Alumni
 
-©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni,  33 - 40126   Bologna - Partita IVA:  01131710376
+©Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376
+
+Privacy Note legali Informazioni sul sito e accessibilità Impostazioni cookie

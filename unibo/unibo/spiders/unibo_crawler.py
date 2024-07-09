@@ -21,10 +21,8 @@ class UniboCrawlerSpider(CrawlSpider):
         super(UniboCrawlerSpider, self).__init__(*args, **kwargs)
         self.i = 0
 
-    general_link = Rule(LinkExtractor(restrict_css="a"), callback="download_jina", follow=True)
-
     rules = (
-        general_link,
+        Rule(LinkExtractor(restrict_css="a"), callback="download_jina", follow=True),
     )
 
     def cleanMarkdown(self, text):
@@ -45,7 +43,10 @@ class UniboCrawlerSpider(CrawlSpider):
         headers = {
             "x-respond-with":"markdown"
         }
-        yield scrapy.Request(full_link, callback=self.parse_item_from_request, headers=headers, errback=self.handle_error)
+        yield scrapy.Request(full_link,
+                            callback=self.parse_item_from_request,
+                            headers=headers,
+                            errback=self.handle_error)
 
     def parse_item_from_request(self, response):
         self.i+=1

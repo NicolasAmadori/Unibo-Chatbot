@@ -1,14 +1,22 @@
+import re
+
 def cleanMarkdown(text):
     marker = "==============="
-
+    cleaned_text = text
     start_index = text.find(marker)
     end_index = text.find(marker, start_index + len(marker))
-    print(start_index, end_index)
-    if start_index == -1 or end_index == -1:
-        return text
-    
-    cleaned_text = text[:start_index] + text[end_index:]
-    
+    if start_index != -1 and end_index != -1:
+        cleaned_text = text[:start_index] + text[end_index:]
+
+    #Regexs
+    linkRegex = r'\*\s+\[([^\]]*)\]\(([^)"]*)(?:\s*"([^"]*)")?\)'
+    cleaned_text = re.sub(linkRegex, '', cleaned_text, flags=re.DOTALL)#Remove links
+
+    htmlTagRegex = r'<([^<>]*)>'
+    cleaned_text = re.sub(htmlTagRegex, '', cleaned_text)#Removing html tags
+
+    extraLinesRegex = r'\n\s*\n'
+    cleaned_text = re.sub(extraLinesRegex, '\n\n', cleaned_text)#Removing extra newlines
     return cleaned_text
 
 def readFile():

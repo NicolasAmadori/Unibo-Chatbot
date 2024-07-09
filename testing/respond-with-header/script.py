@@ -18,15 +18,15 @@ def scarica_file(url, nome_file, headers=None):
         print(f"Si è verificato un errore durante il download del file: {e}")
 
 prefix = "https://r.jina.ai/"
-url = "https://www.unibo.it/it/ateneo/organizzazione-e-sedi/servizi-di-ateneo/servizi-online/servizi-online-per-studenti/guida-servizi-online-studenti/liste-di-distribuzione-docenti-studenti"
+url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/collaborazione-tra-aziende-e-i-corsi-di-laurea-in-ingegneria-e-scienze-informatiche"
 
 #Testing returing values for every value of the jina header "x-respond-with"
 #header value -> file type
 types = {
     "markdown": "txt",
-    "html": "txt",
-    "text": "txt",
-    "screenshot": "png"
+    # "html": "txt",
+    "text": "txt"
+    # "screenshot": "png"
 }
 
 scarica_file(prefix + url, "no_header.txt") #Requesting page without "x-respond-with" header
