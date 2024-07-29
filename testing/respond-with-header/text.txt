@@ -39,63 +39,102 @@ STUDIARE
 OPPORTUNITÀ
 BACHECA
 CONTATTI
-Tu sei qui:
-HOME  
-Collaborazione tra Aziende e i Corsi di Laurea in Ingegneria e Scienze Informatiche
+Ingegneria e scienze informatiche
+La sede
+La sede- cortile interno
+La sede all'interno
+Aula Magna
+La biblioteca
+I laboratori
+Previous
+Pausa
+Next
+1 / 6
+ESPLORA IL CORSO
+OPEN DAY
+TIPO DI CORSO
+Laurea
+SEDE DIDATTICA
+Cesena
+LINGUA
+Italiano
+TIPO DI ACCESSO
+Numero programmato - TOLC-I
+CLASSE DI CORSO
+L-8 - INGEGNERIA DELL'INFORMAZIONE
+L-31 - SCIENZE E TECNOLOGIE INFORMATICHE
 
-La presente pagina riassume le diverse modalità di collaborazione tra Aziende o Enti Pubblici e i CdL in Ingegneria e Scienze Informatiche di Cesena. Riportiamo di seguito una classificazione delle possibili forme di collaborazione.
+COORDINATORE
+Franco Callegati
+DIPARTIMENTO
+Informatica - Scienza e Ingegneria - DISI
+INSEGNAMENTI
+Il piano didattico
+I PIÙ VISTI
+ORARIO DELLE LEZIONI
+APPELLI D'ESAME
+ELENCO DOCENTI
+STUDENTI ONLINE
+BACHECA
+Un alloggio per studiare all'università?
 
-Collaborazione con docenti e gruppi di ricerca
-Partecipazione congiunta a progetti di ricerca/innovazione
+Sappiamo che la ricerca a volte può rivelarsi difficile e può richiedere tempo, ma non perderti d’animo. Ecco qualche consiglio.
 
-La collaborazione è tra l’azienda e i ricercatori. Le parti concordano di partecipare congiuntamente a bandi di ricerca/innovazione a livello locale, regionale o internazionale.
+È online il bando ER.GO - Azienda regionale per il diritto agli studi superiori
 
-Modalità di contatto: l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il referente del Dipartimento che indicherà il ricercatore più indicato per la specifica area di competenza.
+La Regione sostiene le spese che dovrai affrontare durante il percorso accademico. Presenta la domanda per borsa di studio, alloggio e altre agevolazioni.
 
-Attività in convenzione
+Bando AlmaCert – contributo per certificazioni linguistiche internazionali
 
-La collaborazione è tra l’azienda e i ricercatori. L’azienda affida al ricercatore lo svolgimento di una attività tipicamente con finalità di innovazione o di formazione. Le convenzioni hanno carattere oneroso.
+Leggi il bando e presenta la domanda entro il 13 settembre.
 
-Modalità di contatto: l’azienda può contattare direttamente il ricercatore che ritiene detenga le competenze necessarie oppure contattare il referente del Dipartimento che indicherà il ricercatore più indicato per la specifica area di competenza.
+Premi di studio Unibo for Refugees
 
-Collaborazione con studenti
+Sono disponibili dieci premi di studio per chi ha già ottenuto una borsa di studio ER.GO, UNICORE o CRUI per l'a.a. 2023/24. Scadenza: 8 agosto.
 
-Per quanto riguarda le modalità di collaborazione con gli studenti occorre ricordare che il percorso formativo in Ingegneria e Scienze Informatiche è organizzato in due fasi successive:
+Idoneità linguistica - date dei prossimi appelli
 
-Corso di Laurea Triennale: vi accedono gli studenti con diploma di scuola superiore, ha durata triennale e fornisce una formazione universitaria di base nella quale vengono acquisite le principali competenze tecnologiche e competenze di base in ambito di progettazione e analisi (al seguente link è riportato l’elenco dei corsi seguiti dagli studenti). Attualmente il numero di studenti che ogni anno si iscrive a suddetto corso è di circa 200.
-Corso di Laurea Magistrale: vi accedono gli studenti che hanno completato il Corso di Laurea Triennale, ha durata biennale e permette agli studenti di specializzarsi nei vari settori dell’informatica e dell’Ingegneria Informatica acquisendo maggiori competenze tecniche, di progettazione e di analisi (al seguente link è riportato l’elenco dei corsi seguiti dagli studenti).
+Dal 12 agosto, fino al 1° settembre puoi prenotare l’idoneità linguistica in AlmaEsami. Scopri quando puoi sostenerla.
 
-Tirocinio curriculare
+Far parte dell’Alma Mater
 
-Tutti gli studenti iscritti alla Laurea Triennale devono svolgere un periodo pari a 150 ore in Azienda.
+Conosci da vicino la tua Università
 
-Come richiedere l'attivazione di un tirocinio curriculare
-
-Profilo degli studenti: tipicamente gli studenti svolgono il tirocinio nel terzo anno di studi quando hanno già seguito la maggior parte dei corsi. Questa rappresenta per molti la prima esperienza in azienda; di conseguenza nella maggior parte dei casi lo studente è dotato di una limitata autonomia di lavoro pur possedendo sufficienti competenze tecniche.
-Attività da svolgere: il tirocinante è tenuto a svolgere attività legate all’ambito informatico, tipicamente attività di programmazione, ma non è vi sono vincoli di progettualità e di consequenzialità tra le attività svolte. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte 
-Modalità di contatto: l’azienda deve pubblicare un titolo di tirocinio a cui gli studenti rispondono. E’ prevista una fase conoscitiva prima della mutua accettazione del tirocinio. Per poter pubblicare un tirocinio l’azienda deve attivare una convenzione gratuita con l’Ateneo a fini assicurativi. Le procedure di registrazione e pubblicazione possono essere svolte on-line al seguente indirizzo. La segreteria didattica del CdL è a disposizione per supportare le aziende (Tel. 0547 338 801).
-
-Tesi triennale in Azienda
-
-Gli studenti possono, a loro discrezione, svolgere la propria tesi di Laurea in azienda. La durata di questa attività è di circa 3 mesi. Il numero di studenti che svolgono tesi triennali in azienda è elevato e vi è quindi una buona probabilità che si trovino candidati per il tema proposto.
-
-Profilo degli studenti: gli studenti che si affacciano alla tesi triennale hanno in media 21-23 anni e hanno completato il loro percorso di studio triennale e hanno già svolto il tirocinio curricolare in azienda. E’ possibile svolgere suddetto tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
-Attività da svolgere: la tesi di Laurea presuppone lo svolgimento di un vero e proprio progetto che contempli sia una parte di analisi e progettazione, sia una parte di implementazione, rispetto al tirocinio curricolare le attività svolte devono quindi essere legate tra di loro. E’ possibile svolgere il tirocinio e la tesi nella stessa azienda in modo da avere a disposizione un maggiore monte ore.
-Modalità di contatto: l’azienda può proporre un titolo di Laurea contattando direttamente un docente con competenze correlate all’ambito del progetto che si vuole svolgere, oppure contattando il Coordinatore del corso di Laurea indicato nella Scheda che indicherà il docente più indicato per la specifica area di competenza. Come per i tirocini curriculari è necessario che l’azienda sottoscriva una convenzione non onerosa con l’Ateneo a fini assicurativi.
-Pubblicazione di offerte di lavoro
-
-Il servizio di Job Placement consente di inserire offerte di lavoro e consultare i CV dei laureati.
-
-ALLEGATI
-
-Linee guida annunci
-
-[ .pdf 118Kb ]
-
-Istruzioni per la Pubblicazione di Offerte di Tirocinio e Tesi in Azienda
-
+VAI ALLA BACHECA
 IN EVIDENZA
-Proposte di tesi e tirocinio
+Materiale orientamento
+
+Qui potrai trovare risorse utili per conoscere il corso.
+
+Guarda su YouTube
+Presentazione del corso
+Tour Virtuale del Campus di Cesena
+
+Scopri il corso Ingegneria e Scienze Informatiche visitando la nostra sede.
+
+Eventi di orientamento per le scuole superiori
+
+Iniziative organizzate dal corso di laurea, dedicate alle scuole superiori
+
+Università & Aziende
+
+Opportunità di collaborazione tra le Aziende e i Corsi di Laurea in Ingegneria e Scienze Informatiche
+
+La qualità del Corso
+
+Come monitoriamo la qualità della didattica e dei servizi.
+
+Borse di studio
+
+Le agevolazioni e le altre opportunità.
+
+Esperienze all'estero
+
+Un'occasione di crescita e formazione.
+
+Cerchi un'informazione? Hai un dubbio?
+
+Il tutor del Corso ti aiuterà durante il tuo percorso universitario.
 
 SEGUI IL CORSO SU:
 

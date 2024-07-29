@@ -18,7 +18,7 @@ def scarica_file(url, nome_file, headers=None):
         print(f"Si è verificato un errore durante il download del file: {e}")
 
 prefix = "https://r.jina.ai/"
-url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/collaborazione-tra-aziende-e-i-corsi-di-laurea-in-ingegneria-e-scienze-informatiche"
+url = "https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche"
 
 #Testing returing values for every value of the jina header "x-respond-with"
 #header value -> file type
