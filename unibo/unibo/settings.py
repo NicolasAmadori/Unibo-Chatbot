@@ -57,7 +57,7 @@ ROBOTSTXT_OBEY = True
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-COOKIES_ENABLED = True
+COOKIES_ENABLED = False
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
@@ -98,10 +98,8 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-#SPIDER_MIDDLEWARES = {
-#    "unibo.middlewares.UniboSpiderMiddleware": 543,
-#}
 DELTAFETCH_ENABLED = True
 SPIDER_MIDDLEWARES = {
-    'scrapy_deltafetch.DeltaFetch': 100,
+    # 'scrapy_deltafetch.DeltaFetch': 100,
+    # "unibo.middlewares.UniboSpiderMiddleware": 543,
 }

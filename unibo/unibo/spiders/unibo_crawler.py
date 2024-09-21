@@ -12,7 +12,7 @@ class UniboCrawlerSpider(CrawlSpider):
     # start_urls = ["https://www.unibo.it/en"]
 
     allowed_domains = ["corsi.unibo.it", "r.jina.ai"]
-    start_urls = ["https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html"]
+    start_urls = ["https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche"]
 
     PRINT_ONLY_URL = False
     FOLDER_CHARACTER_LIMIT = 50
@@ -22,7 +22,9 @@ class UniboCrawlerSpider(CrawlSpider):
         self.i = 0
 
     rules = (
-        Rule(LinkExtractor(restrict_css="a"), callback="download_jina", follow=True),
+        # Rule(LinkExtractor(restrict_css="a"), callback="download_jina", follow=True),
+        Rule(LinkExtractor(restrict_css="a", deny_domains=["corsi.unibo.it"]), callback="download_jina", follow=False),
+        Rule(LinkExtractor(restrict_css="a", allow_domains=["corsi.unibo.it"]), callback="download_jina", follow=True),
     )
 
     def cleanMarkdown(self, text):
@@ -51,7 +53,7 @@ class UniboCrawlerSpider(CrawlSpider):
     def parse_item_from_request(self, response):
         self.i+=1
         original_url = response.url.replace("https://r.jina.ai/", "")
-        path = "pagine"
+        path = "pagine2"
         if self.PRINT_ONLY_URL:
             filename = "links.txt"
             path = os.path.join(path, filename)
